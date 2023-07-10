@@ -143,6 +143,9 @@ body {
   font-weight: 800;
   margin-bottom: 24px;
 }
+#offer{
+    color: #e55473;
+}
 .hot_deal_description {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
