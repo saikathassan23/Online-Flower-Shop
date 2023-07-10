@@ -70,10 +70,7 @@ body {
 .featured-description {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 30px;
   width: 594px;
   margin: 0 auto;
@@ -111,9 +108,7 @@ body {
 #img-title {
   color: #272727;
   text-align: center;
-  font-family: Lato;
   font-size: 24px;
-  font-style: normal;
   font-weight: 700;
   line-height: 35px;
   text-decoration: underline;
@@ -144,20 +139,14 @@ body {
 }
 #hot_deal_title {
   color: #272727;
-  font-family: Lato;
   font-size: 40px;
-  font-style: normal;
   font-weight: 800;
-  line-height: normal;
   margin-bottom: 24px;
 }
 .hot_deal_description {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 30px;
   margin-bottom: 32px;
 }
@@ -168,8 +157,6 @@ body {
 
 /* instagram section start */
 .instagram_section_container {
-  /* background-color: tomato; */
-  /* border-bottom: 1px solid blue; */
   height: 520px;
   text-align: center;
   width: 80%;
@@ -178,20 +165,13 @@ body {
 }
 .instagram_section_title {
   color: #272727;
-  text-align: center;
-  font-family: Lato;
   font-size: 40px;
-  font-style: normal;
   font-weight: 800;
-  line-height: normal;
   margin-bottom: 20px;
 }
 .instagram_section_description {
   color: rgba(39, 39, 39, 0.6);
-  text-align: center;
-  font-family: Lato;
   font-size: 18px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
   margin-bottom: 35px;
@@ -219,23 +199,19 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 8px;
 }
 .latest_deal_title {
   color: #272727;
-  text-align: center;
-  font-family: Lato;
+  /* text-align: center; */
   font-size: 40px;
-  font-style: normal;
   font-weight: 800;
-  line-height: normal;
   margin-bottom: 20px;
 }
 .latest_deal_description {
   color: rgba(39, 39, 39, 0.6);
-  text-align: center;
-  font-family: Lato;
+  /* text-align: center; */
   font-size: 18px;
-  font-style: normal;
   font-weight: 400;
   line-height: 30px;
   margin-bottom: 35px;
@@ -245,7 +221,6 @@ body {
   width: 420px;
   padding: 22px 30px;
   border: none;
-  border-radius: 8px;
   color: rgba(39, 39, 39, 0.6);
   font-size: 16px;
 }
