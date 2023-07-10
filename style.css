@@ -143,8 +143,8 @@ body {
   font-weight: 800;
   margin-bottom: 24px;
 }
-#offer{
-    color: #e55473;
+#offer {
+  color: #e55473;
 }
 .hot_deal_description {
   color: rgba(39, 39, 39, 0.6);
@@ -235,6 +235,17 @@ body {
   margin-right: 10px;
 }
 /* Latest deal section end */
+
+/* review start */
+.review_section_container {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 70px;
+  background-color: tomato;
+}
+
+
+/* review end */
 
 /* footer section starts */
 .footer_container {
