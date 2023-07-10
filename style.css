@@ -212,7 +212,7 @@ body {
   width: 80%;
   height: 450px;
   margin: 0 auto;
-  margin-bottom: 70px;
+  margin-bottom: 100px;
   background: url('./images/Rectangle\ 9.png');
   text-align: center;
   background-repeat: no-repeat;
@@ -253,7 +253,42 @@ body {
   display: flex;
   align-items: center;
 }
-.latest_deal_input_button_container input[type = "text"]{
-    margin-right: 10px;
+.latest_deal_input_button_container input[type='text'] {
+  margin-right: 10px;
 }
 /* Latest deal section end */
+
+/* footer section starts */
+.footer_container {
+  height: 400px;
+  background: #111010;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer_contents {
+  width: 530px;
+  height: 210px;
+}
+.footer_title {
+  color: #e55473;
+  font-size: 48px;
+  font-weight: 800;
+  margin-bottom: 25px;
+}
+.footer_title span {
+  color: white;
+}
+.footer_description {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 35px;
+}
+.footer_copyright {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+}
+
+/* footer ends */
