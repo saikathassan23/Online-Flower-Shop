@@ -1,4 +1,53 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
+body {
+  font-family: 'Lato';
+}
+
+/* COMMON SECTION */
+.common-btn {
+  padding: 20px 43px;
+  border: none;
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* COMMON SECTION END */
+
+/* BANNER SECTION START */
+.banner-section {
+  height: 700px;
+  background: rgba(229, 84, 115, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.banner-section-contents {
+  padding-left: 240px;
+}
+.banner-section-img {
+  padding-right: 240px;
+  padding-left: 97px;
+}
+.banner-title {
+  color: #272727;
+  font-size: 54px;
+  font-weight: 800;
+  margin-bottom: 32px;
+}
+.banner-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 32px;
+}
+.banner-section-img img {
+  height: 650px;
+  margin-top: 52px;
+}
+/* BANNER SECTION END */
